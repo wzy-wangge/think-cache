@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-cache",
-    "description": "Cache Manager",
+    "name": "wzy-wangge/think-cache",
+    "description": "bugFix",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "wzy-wangge",
+            "email": "791276756@qq.com"
         }
     ],
     "require": {
